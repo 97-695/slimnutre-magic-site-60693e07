@@ -35,10 +35,6 @@ const FAQ = () => {
       question: "Como funciona a entrega?",
       answer: "A entrega é feita pelos Correios ou transportadora. O prazo varia de 5 a 15 dias úteis dependendo da região. Pacotes com 3+ potes têm frete grátis."
     },
-    {
-      question: "Posso parcelar a compra?",
-      answer: "Sim! Aceitamos parcelamento em até 12x sem juros no cartão de crédito. Também aceitamos PIX, boleto e outros meios de pagamento."
-    }
   ];
 
   return (

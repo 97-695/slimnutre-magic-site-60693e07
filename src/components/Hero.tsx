@@ -61,19 +61,6 @@ const Hero = () => {
               </Button>
             </div>
             
-            <div className="flex items-center gap-6 pt-6 text-sm">
-              <div className="flex -space-x-2">
-                {[1, 2, 3, 4].map((i) => (
-                  <div key={i} className="w-10 h-10 rounded-full bg-white/20 border-2 border-white flex items-center justify-center">
-                    👤
-                  </div>
-                ))}
-              </div>
-              <div>
-                <div className="font-semibold">+10.000 clientes satisfeitos</div>
-                <div className="text-white/70">⭐⭐⭐⭐⭐ 4.9/5.0 Avaliação</div>
-              </div>
-            </div>
           </div>
           
           <div className="relative">
